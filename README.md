@@ -33,7 +33,8 @@
 
 ### Etc
 
-- <a href="https://github.com/mistsixteen/Algorithm" target="_blank"> repository for Coding challenge / Alogrithm testing </a>
+- <a href="https://mist16.tistory.com/" target="_blank"> Tistory Blog </a>
+- <a href="https://github.com/mistsixteen/Algorithm" target="_blank"> repository for Coding challenge / Algorithm Practice </a>
   
 <br>
 
