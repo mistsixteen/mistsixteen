@@ -10,16 +10,24 @@
 ## 🔭 Career
 
 ### SCSpro : 2018-04 ~ 2021.03, Assistant Research Engineer, R&D Center Div 2 <br>
-- Develop SmartCard Module Software <br> 
-- Develop MultiPAD Software <br>
+- Military Service / Technical Research Personnel
+- Develop SmartCard Module / MultiPAD Software <br> 
+- Develop QC Tools <br>
+- C/C++ 
+
+### SCSpro : 2018-04 ~ 2021.03, 주임연구원, 기술연구소 연구2실 <br>
+- 전문연구요원 대체복무
+- 스마트카드 모듈/멀티패드 단말기용 소프트웨어 개발 <br> 
+- QA용 MFC tool 개발 <br>
 - C/C++ 
 
 ## 💬 Activity
 
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mist16)](https://solved.ac/mist16)
 
-- Backjoon solved.ac GOLD V
-- <a href="https://programmers.co.kr/pr/mistsixteen_5608" target="_blank"> Programmers resume </a>
+- <a href="https://programmers.co.kr/pr/mistsixteen_5608" target="_blank"> 프로그래머스 이력서 </a>
+- <a href="https://solved.ac/profile/mist16" target="_blank"> Backjoon Solved.AC </a>
+- <a href="https://mist16.tistory.com/" target="_blank"> 티스토리 블로그 </a>
 
 <br>
 
@@ -33,7 +41,6 @@
 
 ### Etc
 
-- <a href="https://mist16.tistory.com/" target="_blank"> Tistory Blog </a>
 - <a href="https://github.com/mistsixteen/Algorithm" target="_blank"> repository for Coding challenge / Algorithm Practice </a>
   
 <br>
