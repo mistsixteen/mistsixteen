@@ -19,7 +19,7 @@
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mist16)](https://solved.ac/mist16)
 
 - Backjoon solved.ac GOLD V
-- Programmers Skill check Level 3
+- <a href="https://programmers.co.kr/pr/mistsixteen_5608" target="_blank"> Programmers resume </a>
 
 <br>
 
