@@ -1,6 +1,4 @@
-# mist.sixteen
-
-<br>
+# 임병욱 / mist16 <br>
 
 ## 🌱 University
 
@@ -8,12 +6,6 @@
 경북대학교 석사과정 : 2015.03 ~ 2018.02 <br>
 
 ## 🔭 Career
-
-### SCSpro : 2018-04 ~ 2021.03, Assistant Research Engineer, R&D Center Div 2 <br>
-- Military Service / Technical Research Personnel
-- Develop SmartCard Module / MultiPAD Software <br> 
-- Develop QC Tools <br>
-- C/C++ 
 
 ### SCSpro : 2018-04 ~ 2021.03, 주임연구원, 기술연구소 연구2실 <br>
 - 전문연구요원 대체복무
@@ -57,5 +49,5 @@
 - Tools
   - git
 
-## Contacts
+## 📱 Contact
 mist.sixteen@gmail.com
