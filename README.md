@@ -19,21 +19,16 @@
 
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mist16)](https://solved.ac/mist16)
 
-- <a href="https://programmers.co.kr/pr/mistsixteen_5608" target="_blank"> 프로그래머스 이력서 </a>
-- <a href="https://solved.ac/profile/mist16" target="_blank"> Backjoon Solved.AC </a>
-- <a href="https://mist16.tistory.com/" target="_blank"> 티스토리 블로그 </a>
+### - <a href="https://programmers.co.kr/pr/mistsixteen_5608" target="_blank"> 프로그래머스 이력서 </a>
+### - <a href="https://mist16.tistory.com/" target="_blank"> 티스토리 블로그 </a>
+### - <a href="https://solved.ac/profile/mist16" target="_blank"> 백준 Solved.AC  </a>
 
 <br>
 
 ## 🎯 Project
 
-### Solo
-
-- <a href="https://github.com/mistsixteen/UnityRestaurantCrush" target="_blank"> UnityRestaurantCrush, Unity 3-Match Puzzle Game</a>
-
-### Etc
-
-- <a href="https://github.com/mistsixteen/Algorithm" target="_blank"> repository for Coding challenge / Algorithm Practice </a>
+### - <a href="https://github.com/mistsixteen/UnityRestaurantCrush" target="_blank"> UnityRestaurantCrush, Unity 3-Match Puzzle Game</a>
+### - <a href="https://github.com/mistsixteen/Algorithm" target="_blank"> repository for Coding challenge / Algorithm Practice </a>
   
 <br>
 
