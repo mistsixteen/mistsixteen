@@ -2,8 +2,10 @@
 
 ## 🌱 University
 
-경북대학교 학사과정 : 2011.03 ~ 2015.02 <br>
-경북대학교 석사과정 : 2015.03 ~ 2018.02 <br>
+### 경북대학교 컴퓨터학부
+- 학사과정 : 2011.03 ~ 2015.02 <br>
+### 경북대학교 대학원 컴퓨터학부
+- 석사과정 : 2015.03 ~ 2018.02 <br>
 
 ## 🔭 Career
 
@@ -23,13 +25,11 @@
 
 <br>
 
-## Project
+## 🎯 Project
 
 ### Solo
 
 - <a href="https://github.com/mistsixteen/UnityRestaurantCrush" target="_blank"> UnityRestaurantCrush, Unity 3-Match Puzzle Game</a>
-
-<br>
 
 ### Etc
 
@@ -50,4 +50,4 @@
   - git
 
 ## 📱 Contact
-mist.sixteen@gmail.com
+### mist.sixteen@gmail.com
