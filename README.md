@@ -27,7 +27,7 @@
 
 ## 🎯 Project
 
-### - <a href="https://github.com/mistsixteen/UnityRestaurantCrush" target="_blank"> UnityRestaurantCrush, Unity 3-Match Puzzle Game</a>
+### - <a href="https://github.com/mistsixteen/RestaurantCrush" target="_blank"> RestaurantCrush, Unity 3-Match Puzzle Game</a>
 ### - <a href="https://github.com/mistsixteen/Algorithm" target="_blank"> repository for Coding challenge / Algorithm Practice </a>
   
 <br>
