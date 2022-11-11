@@ -25,7 +25,7 @@
 - QA/인증용 MFC기반 툴 개발 <br>
 - C/C++
 
-## 💬 ersonal Activity
+## 💬 Personal Activity
 
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mist16)](https://solved.ac/mist16)
 
