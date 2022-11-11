@@ -9,16 +9,21 @@
 
 ## 🔭 Career
 
-### NX3GAMES : 2022.07 ~ NOW <br>
-- 유니티 클라이언트 개발자
-- Zepeto용 Unity3D 게임 개발 <br> 
-- Unity/C#/TypeScript
+### NX3GAMES : 2022.07 ~ NOW : NX3Games 개발 2실 근무 <br>
+#### My Pet Diary : Zepeto용 Unity 3D 캐주얼 SLG 개발
+ - UGUI를 사용한 UI 및 컨텐츠 개발(상점/미션/도감 등)
+ - 발매/업데이트 대응
+#### 비공개 게임 : Zepeto용 Unity 3D 캐주얼 게임 개발
+ - UGUI를 사용한 UI 및 컨텐츠 개발
+  - 메인 UI
+  - 상점 및 기타 컨텐츠
+#### 사용 기술 스택 : Unity/C#/TypeScript
 
 ### SCSpro : 2018-04 ~ 2021.03, 주임연구원, 기술연구소 연구2실 <br>
 - 전문연구요원 대체복무
 - 스마트카드 모듈/멀티패드 단말기용 소프트웨어 개발 <br> 
-- QA용 MFC tool 개발 <br>
-- C/C++ 
+- QA/인증용 MFC기반 툴 개발 <br>
+- C/C++
 
 ## 💬 Activity
 
