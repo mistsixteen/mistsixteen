@@ -9,6 +9,11 @@
 
 ## 🔭 Career
 
+### NX3GAMES : 2022.07 ~ NOW <br>
+- 유니티 클라이언트 개발자
+- Zepeto용 Unity3D 게임 개발 <br> 
+- Unity/C#/TypeScript
+
 ### SCSpro : 2018-04 ~ 2021.03, 주임연구원, 기술연구소 연구2실 <br>
 - 전문연구요원 대체복무
 - 스마트카드 모듈/멀티패드 단말기용 소프트웨어 개발 <br> 
@@ -44,6 +49,7 @@
 - Programming
   - C/C++
   - C#
+  - TypeScript
 
 - Game Engine
   - Unity
