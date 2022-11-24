@@ -55,6 +55,7 @@
   - C/C++
   - C#
   - TypeScript
+  - WINAPI/MFC
 
 - Game Engine
   - Unity
