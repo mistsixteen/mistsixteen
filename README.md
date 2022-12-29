@@ -37,8 +37,7 @@
 
 ## 🎯 Project
 
-
-<img src="https://user-images.githubusercontent.com/30260233/172665111-e5cac1b2-6bb1-4b53-8b71-bb381216fdb3.PNG"  width="50%" height="50%"/>
+![Screenshot](https://user-images.githubusercontent.com/30260233/209845479-ef24a58c-b837-476c-9072-c87652de8c13.PNG)
 
 ### - <a href="https://github.com/mistsixteen/ShootingDefence" target="_blank"> 3D Top-View Shooting Defence Game</a>
 
