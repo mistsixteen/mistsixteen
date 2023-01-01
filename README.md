@@ -6,14 +6,15 @@
 
 ## 🔭 Career
 
-### NX3GAMES : 2022.07 ~ 2022.12 : NX3Games 개발 2실 근무 <br>
+### NX3GAMES : 2022.07 ~ 2022.12, 평사원, 개발 2실 근무 <br>
 #### - My Pet Diary : Zepeto용 Unity 3D 캐주얼 SLG 개발
  - UGUI를 사용한 UI 및 컨텐츠 개발(상점/미션/도감 등)
+ - 외국어 로컬라이제이션 대응
  - 발매/업데이트 대응
 #### - 비공개 게임 : Zepeto용 Unity 3D 캐주얼 게임 개발
  - UGUI를 사용한 UI 및 컨텐츠 개발
-  - 메인 UI 시스템 담당
-  - 상점 및 기타 컨텐츠 담당
+ - 메인 UI 시스템 담당
+ - 상점 및 기타 컨텐츠 담당
 #### - 사용 기술 스택 : Unity/C#/TypeScript
 
 ### SCSpro : 2018-04 ~ 2021.03, 주임연구원, 기술연구소 연구2실 <br>
@@ -40,7 +41,7 @@
 
 <img src="https://user-images.githubusercontent.com/30260233/161255254-5be21785-3ddd-4456-819e-35c024be2e43.PNG"  width="50%" height="50%"/>
 
-### - <a href="https://github.com/mistsixteen/RestaurantCrush" target="_blank"> RestaurantCrush, Unity 3-Match Puzzle Game</a>
+### - <a href="https://github.com/mistsixteen/RestaurantCrush" target="_blank"> RestaurantCrush, Unity 3-Match Puzzle Game : 2022.04~2022.04</a>
 ### - <a href="https://github.com/mistsixteen/Algorithm" target="_blank"> repository for Coding challenge / Algorithm Practice </a>
   
 <br>
