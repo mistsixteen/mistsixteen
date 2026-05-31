@@ -13,14 +13,24 @@
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Graphics
+![HLSL](https://img.shields.io/badge/HLSL-005CED?style=for-the-badge&logoColor=white)
 
 ### Tools
+#### - Profiling
+![RenderDoc](https://img.shields.io/badge/RenderDoc-2D2D2D?style=for-the-badge&logoColor=white)
+![Xcode Instruments](https://img.shields.io/badge/Xcode_Instruments-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+#### - Management
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
-
-## 🌱 Currently Exploring
+![Perforce](https://img.shields.io/badge/Perforce_(P4V)-404040?style=for-the-badge&logoColor=white)
+#### - Build/CI
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+## 🚀 Currently Exploring
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ## 💬 Personal Activity
