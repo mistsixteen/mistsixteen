@@ -31,7 +31,7 @@
 
 <br>
 
-## 🌱 Currently Exploring
+## 🚀 Currently Exploring
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![DirectX](https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=windows&logoColor=white)
 
