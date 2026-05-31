@@ -4,24 +4,24 @@
 ### - 경북대학교 컴퓨터학부 학사과정 졸업 : 2011.03 ~ 2015.02
 ### - 경북대학교 대학원 컴퓨터학부 석사과정 졸업 : 2015.03 ~ 2018.02 <br>
 
-## 🔭 Career
+## ⛏️ Skills
 
-### NX3GAMES : 2022.07 ~ 2022.12, 평사원, 개발 2실 근무 <br>
-#### - My Pet Diary : Zepeto용 Unity 3D 캐주얼 SLG 개발
- - UGUI를 사용한 UI 및 컨텐츠 개발(상점/미션/도감 등)
- - 외국어 로컬라이제이션 대응
- - 발매/업데이트 대응
-#### - 비공개 게임 : Zepeto용 Unity 3D 캐주얼 게임 개발
- - UGUI를 사용한 UI 및 컨텐츠 개발
- - 메인 UI 시스템 담당
- - 상점 및 기타 컨텐츠 담당
-#### - 사용 기술 스택 : Unity/C#/TypeScript
+### Main Stack
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### SCSpro : 2018-04 ~ 2021.03, 주임연구원, 기술연구소 연구2실 <br>
-- 전문연구요원 대체복무
-- 스마트카드 모듈/멀티패드 단말기용 소프트웨어 개발 <br> 
-- QA/인증용 MFC기반 툴 개발 <br>
-- 사용 기술 스택 : C/C++/MFC/JBOSN/Linux
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+
+## 🌱 Currently Exploring
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 
 ## 💬 Personal Activity
 
