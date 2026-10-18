@@ -40,10 +40,10 @@
 ## 💬 Personal Activity
 
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mist16)](https://solved.ac/mist16)
+<br>
+![Codewars](https://github.r2v.ch/codewars?user=mistsixteen&stroke=%23BB432C)
 
 <!-- [![Atcoder Profile](https://atcoder-badge.kro.kr?id=mist16)](https://atcoder.jp/users/mist16) -->
-
-### - <a href="https://solved.ac/profile/mist16" target="_blank"> 백준 Solved.AC  </a>
 
 <br>
 
